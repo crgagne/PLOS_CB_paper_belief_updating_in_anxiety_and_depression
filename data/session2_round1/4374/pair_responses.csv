@@ -1,0 +1,27 @@
+,button_pressed_list,last_button_pressed,pair0,pair1,time_button_pressed_list,time_last_button_pressed
+0,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5931,2305,"[73140, 74866]",74866
+1,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,3221,2850,"[17368, 18526]",18526
+2,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5371,2012,"[7353, 7913]",7913
+3,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5933,4085,"[5486, 9466]",9466
+4,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5237,3980,"[5287, 5809]",5809
+5,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,1183,3049,"[3255, 3593]",3593
+6,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,4142,5463,"[3416, 3848]",3848
+7,"[u'extra_key_2_pressed', u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,4299,1881,"[3317, 3774, 6178, 6652]",6652
+8,"[u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,3705,1746,"[860, 3088, 3411]",3411
+9,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,3737,4574,"[528, 890]",890
+10,"[u'extra_key_2_pressed', u'extra_key_1_pressed', u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,210,4504,"[1396, 2124, 2143, 6008, 6864]",6864
+11,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5845,4719,"[5026, 5784]",5784
+12,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,2250,3827,"[3846, 4516]",4516
+13,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,2472,8116,"[1891, 2638]",2638
+14,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,3910,5376,"[1442, 1953]",1953
+15,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,4203,356,"[2359, 2825]",2825
+16,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5354,1316,"[1109, 1446]",1446
+17,"[u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5310,478,"[1441, 2622, 2962]",2962
+18,"[u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5408,660,"[1086, 1952, 2283]",2283
+19,"[u'extra_key_1_pressed', u'extra_key_2_pressed', u'extra_key_1_pressed', u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5253,5699,"[1287, 2118, 3136, 5686, 6271]",6271
+20,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5913,8243,"[952, 1348]",1348
+21,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5955,4291,"[688, 1072]",1072
+22,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,5214,5921,"[2460, 3018]",3018
+23,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,4465,5387,"[898, 1270]",1270
+24,"[u'extra_key_2_pressed', u'key_end_trial_pressed']",2,5404,4553,"[2499, 2735]",2735
+25,"[u'extra_key_1_pressed', u'key_end_trial_pressed']",1,765,4300,"[2400, 3094]",3094

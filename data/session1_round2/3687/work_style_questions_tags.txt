@@ -1,0 +1,1 @@
+[u'independent worker; group worker', u'advice seeker; problem solver', u'detailed thinker; big picture thinker', u'intuitive thinker; analytic thinker', u'logical presenter; entertaining presenter', u'strategic; adaptive']
