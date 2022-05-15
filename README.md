@@ -27,7 +27,7 @@ To activate the environments use `conda activate env_belief_updating`.
 
 ## (3) Fitting Behavioral Models to Data
 
-Data related to participants' task performance can be found in the folders: `/data/session_3_round1`, `/data/session_3_round2`, `/data/session_3_round3`. These folders contain all detailed trial-level data.
+We recruited participants in three separate rounds. Each participant completed up to three experimental sessions. Data for participants can be found in `/data/` in folders labeled according to the recruitment round (i.e., 'round1','round2','round3') and experiment session (i.e. 'session1', 'session2', 'session3'); see Paper for more details about data collection. For a more detailed description of the data contained in each folder and file, see `/data/data_description.md`.
 
 The code used to load these data files and prepare them for either model fitting or figure creation can be found in the folder `/code_for_data_processing`. However, this is supporting code and does not need to be called directly.
 
